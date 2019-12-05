@@ -3,10 +3,7 @@ Documentation
 
 The ``simpleble`` class
 *****************************
-.. autoclass:: simpleble
-    :members:
-    :undoc-members:
-    :show-inheritance:
+.. autoclass:: simpleble.SimpleBleClient
 
 
 
