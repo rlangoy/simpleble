@@ -1,6 +1,16 @@
 Documentation
 =================
 
+The ``simpleble`` class
+*****************************
+.. autoclass:: simpleble
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+
+
 The ``SimpleBleClient`` class
 *****************************
 .. autoclass:: simpleble.SimpleBleClient
