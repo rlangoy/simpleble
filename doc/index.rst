@@ -38,8 +38,6 @@ The ``SimpleBleNotificationDelegate`` class
     :undoc-members:
     :show-inheritance:
     
-Indices and tables
+Search
 ==================
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
