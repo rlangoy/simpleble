@@ -1,9 +1,9 @@
-Documentation
+Intro
 =================
+This is a demo proj
 
-The ``simpleble`` class
-*****************************
-.. autoclass:: simpleble.SimpleBleClient
+API Documentation
+=================
 
 
 
